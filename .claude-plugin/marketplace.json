@@ -1,0 +1,12 @@
+{
+  "name": "youtube-skill",
+  "owner": { "name": "Dylan Leyes" },
+  "plugins": [
+    {
+      "name": "youtube-skill",
+      "source": "./",
+      "description": "Turn any YouTube video (or dozens) into a Claude skill you can use forever. Reads the transcript, learns the method, saves a new skill.",
+      "license": "MIT"
+    }
+  ]
+}

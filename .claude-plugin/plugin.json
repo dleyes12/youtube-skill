@@ -1,0 +1,9 @@
+{
+  "name": "youtube-skill",
+  "description": "The YouTube Skill: drop in YouTube links and Claude reads each transcript, learns the method the video teaches, and saves it as a reusable skill.",
+  "version": "1.0.0",
+  "author": { "name": "Dylan Leyes" },
+  "homepage": "https://www.instagram.com/dylanleyes.ai/",
+  "license": "MIT",
+  "keywords": ["youtube", "transcript", "learning", "skills", "sales", "offers"]
+}
